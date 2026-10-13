@@ -5,7 +5,7 @@
 Specializing in High-Performance SSG (Static Site Generation), headless architecture, and cross-cultural UI/UX design. Below are my actively maintained projects:
 
 *   **Taiwan Agriculture Price Tracker [https://ros-marry.com/](https://ros-marry.com)**
-    *   A database-free SSG (Nuxt + JSON) historical price tracking tool inspired by Ukiyo-e aesthetics.
+    *   A database-free SSG. Historical price tracking tool inspired by Ukiyo-e aesthetics.
 
 <!--
 *   **[Japanese Nursing Home Directory](#)** *(WIP)*
@@ -24,5 +24,5 @@ Specializing in High-Performance SSG (Static Site Generation), headless architec
     
 
 ---
-🛠️ **Tech Stack:** Vue 3 | Nuxt 4 | Vite | HTML5 | SCSS
+🛠️ **Tech Stack:** High-Performance SSG | HTML5 | SCSS
 ✉ **Contact:** [contact@ros-marry.com](mailto:contact@ros-marry.com)
