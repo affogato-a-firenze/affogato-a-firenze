@@ -18,6 +18,11 @@ Specializing in High-Performance SSG (Static Site Generation), headless architec
 *   **Halana3na3 | Middle Eastern Environmental Info [https://halana3na3.com](https://halana3na3.com)**
     *   An Arabic-language platform featuring full RTL (Right-to-Left) layout adaptation and real-time PM2.5 air quality monitoring.
 
+
+☕ **Support my work:** If my tools have helped you, consider supporting the development costs! <br>
+<a href='https://ko-fi.com/affogatoafirenze' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    
+
 ---
 🛠️ **Tech Stack:** Vue 3 | Nuxt 4 | Vite | HTML5 | SCSS
 ✉ **Contact:** [contact@ros-marry.com](mailto:contact@ros-marry.com)
