@@ -20,4 +20,4 @@ Specializing in High-Performance SSG (Static Site Generation), headless architec
 
 ---
 🛠️ **Tech Stack:** Vue 3 | Nuxt 4 | Vite | HTML5 | SCSS
-📫 **Contact:** [contact@ros-marry.com](mailto:contact@ros-marry.com)
+✉ **Contact:** [contact@ros-marry.com](mailto:contact@ros-marry.com)
